@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "45593e50-753b-4eff-a454-929ecbb5f2aa")
+	(paper "A4")
+	(title_block
+		(title "Portable 5x5x5 LED Cube")
+		(date "2026-06-23")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
